@@ -1,13 +1,12 @@
-import axios from "axios";
-import { useQuery } from "react-query";
 import EduCard from "./Edu_Card";
 import ExpCard from "./Exp_Card";
 import ParagraphSkeleton from "../Common/ParagraphSkeleton";
+import { background } from "../../pages/api/background";
 
 const BackgroundSection = ({ stacked = false }) => {
-    const { isLoading, isError, data } = useQuery('background', () =>
-        axios.get('/api/background').then(({ data }) => data)
-    );
+    const data = background;
+    const isLoading = false;
+    const isError = false;
 
     const education = data?.[0]?.eduCards || [];
     const experience = data?.[1]?.expCards || [];
