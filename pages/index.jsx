@@ -4,6 +4,7 @@ import ProfileSummary from '../components/HomeComponents/ProfileSummary';
 import MyExpertise from '../components/HomeComponents/Expertise/MyExpertise';
 import PortfolioList from '../components/Portfolio/PortfolioList';
 import BackgroundSection from '../components/Background/BackgroundSection';
+import HomeContact from '../components/HomeComponents/HomeContact';
 
 const Home = () => (
     <div className="Home-Page -z-10">
@@ -12,6 +13,7 @@ const Home = () => (
         <MyExpertise />
         <BackgroundSection stacked />
         <PortfolioList showTitle />
+        <HomeContact />
         <Footer />
     </div>
 );
