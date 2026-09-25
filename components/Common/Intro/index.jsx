@@ -8,7 +8,7 @@ import Tools from './Tools';
 import Skills from './Skills';
 import Image from 'next/image';
 import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
-import ProfilePlaceholder from '../../../public/images/profile_imoji.png';
+import ProfilePlaceholder from '../../../public/images/profile_photo.jpg';
 
 const Intro = () => {
   return (
