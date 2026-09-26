@@ -84,7 +84,7 @@ The site deploys automatically to **GitHub Pages** using GitHub Actions whenever
 
 ## 📬 Contact Information
 
-- **Email**: [shikhilrajpv@gmail.com](mailto:shikhilrajpv@gmail.com)
+- **Email**: [pvshikhilraj@gmail.com](mailto:pvshikhilraj@gmail.com)
 - **Phone**: +91 8156922667
 - **LinkedIn**: [shikhil-raj-p-v](https://www.linkedin.com/in/shikhil-raj-p-v-a14a34213)
 - **GitHub**: [shikhil-raj-pv](https://github.com/shikhil-raj-pv)

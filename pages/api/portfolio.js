@@ -2,7 +2,7 @@ export const portfolio = [
     {
         id: 1,
         projectName: 'Odoo SAP Integration',
-        projectDetail: '\'Implemented a scheduled Odoo-to-SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
+        projectDetail: '\'Implemented a scheduled Odoo to SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
         technologiesUsed: [{tech: 'Odoo17'}, {tech: 'Python'}, {tech: 'REST API'}, {tech: 'SAP'}],
     },
     {
@@ -15,7 +15,7 @@ export const portfolio = [
         id: 3,
         projectName: 'Pagos Payment Integration',
         projectDetail: 'Integrated the Pagos payment gateway with Odoo to enable secure online payment processing, automate payment confirmation, and synchronize transaction statuses with accounting records.',
-        technologiesUsed: [{tech: 'Odoo'}, {tech: 'Python'}, {tech: 'XML/QWeb'}, {tech: 'PostgreSQL'}],
+        technologiesUsed: [{tech: 'Odoo 17'}, {tech: 'Python'}, {tech: 'XML/QWeb'}, {tech: 'PostgreSQL'}],
     },
     {
         id: 4,
@@ -51,7 +51,7 @@ export const portfolio = [
         id: 9,
         projectName: 'Migration of Custom Modules',
         projectDetail: 'Successfully migrated multiple custom Odoo modules across versions (15 to 19), ensuring compatibility with updated frameworks and APIs. Refactored Python code, updated XML/QWeb views, migrated database structures, resolved deprecated features, and performed extensive testing to guarantee a seamless upgrade with minimal downtime.',
-        technologiesUsed: [{tech: 'Odoo 15,16,17,18,19'}, {tech: 'Python'}, {tech: 'XML/QWeb'}, {tech: 'PostgreSQL'}, {tech: 'Owl'}],
+        technologiesUsed: [{tech: 'Odoo 14,15,16,17,18,19'}, {tech: 'Python'}, {tech: 'XML/QWeb'}, {tech: 'PostgreSQL'}, {tech: 'Owl'}],
     },
     {
         id: 10,

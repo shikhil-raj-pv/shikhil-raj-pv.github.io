@@ -21,7 +21,7 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'shikhilrajpv@gmail.com',
+  EMAIL: 'pvshikhilraj@gmail.com',
   PHONE: '+91 8156922667',
 };
 

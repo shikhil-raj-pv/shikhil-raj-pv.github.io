@@ -11,8 +11,8 @@ const Home = () => (
         <Banner />
         <ProfileSummary />
         <MyExpertise />
-        <BackgroundSection stacked />
         <PortfolioList showTitle />
+        <BackgroundSection stacked />
         <HomeContact />
         <Footer />
     </div>
