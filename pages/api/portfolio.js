@@ -2,7 +2,7 @@ export const portfolio = [
     {
         id: 1,
         projectName: 'Odoo SAP Integration',
-        projectDetail: '\'Implemented a scheduled Odoo to SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
+        projectDetail: 'Implemented a scheduled Odoo to SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
         technologiesUsed: [{tech: 'Odoo17'}, {tech: 'Python'}, {tech: 'REST API'}, {tech: 'SAP'}],
     },
     {

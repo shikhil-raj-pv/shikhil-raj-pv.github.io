@@ -55,7 +55,7 @@ export const expertise = [
     {
         id: 0,
         title: 'Odoo Development',
-        desc: 'Custom module development across Odoo 14–17, including new addons, inherited views, workflow automation, and tailored business logic for sales, inventory, accounting, and HR modules.'
+        desc: 'Custom module development across Odoo 14 - 20, including new addons, inherited views, workflow automation, and tailored business logic for sales, inventory, accounting, and HR modules.'
     },
     {
         id: 1,
@@ -83,7 +83,7 @@ export const portfolio = [
     {
         id: 1,
         projectName: 'Odoo SAP Integration',
-        projectDetail: '\'Implemented a scheduled Odoo-to-SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
+        projectDetail: 'Implemented a scheduled Odoo-to-SAP integration using REST APIs and cron jobs to automate sales order export, improving data consistency and operational efficiency.',
         technologiesUsed: [{tech: 'Odoo17'}, {tech: 'Python'}, {tech: 'REST API'}, {tech: 'SAP'}],
     },
     {

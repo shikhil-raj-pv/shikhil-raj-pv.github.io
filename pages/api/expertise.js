@@ -2,7 +2,7 @@ export const expertise = [
     {
         id: 0,
         title: 'Odoo Development',
-        desc: 'Custom module development across Odoo 14–17, including new addons, inherited views, workflow automation, and tailored business logic for sales, inventory, accounting, and HR modules.'
+        desc: 'Custom module development across Odoo 14-20, including new addons, inherited views, workflow automation, and tailored business logic for sales, inventory, accounting, and HR modules.'
     },
     {
         id: 1,
