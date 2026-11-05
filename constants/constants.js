@@ -11,13 +11,14 @@ export const DETAILS = {
 export const SKILLS = [
   { title: 'Odoo Development', level: '90%' },
   { title: 'Python', level: '90%' },
-  { title: 'PostgreSQL', level: '80%' },
-  { title: 'ERP Customization', level: '85%' },
+  { title: 'PostgreSQL', level: '85%' },
+  { title: 'ERP Customization', level: '90%' },
+  { title: 'Third Party Integration', level: '85%'}
 ];
 
 export const TECH_STACK = [
   'Odoo 14/15/16/17/18/19', 'Python', 'PostgreSQL', 'XML', 'QWeb', 'OWL',
-  'JavaScript', 'Git', 'GitHub',
+  'JavaScript', 'Git', 'GitHub','Odoo.sh', 'Docker'
 ];
 
 export const CONTACTS = {

@@ -5,7 +5,7 @@ const ProfileSummary = () => {
                 <h2 className="text-lg font-bold text-Snow">Profile Summary</h2>
                 <p className="text-LightGray text-sm sm:text-base leading-relaxed">
                      I’m an <span className="text-Green font-medium">Odoo Techno-Functional Consultant</span> with
-                    2.5 years of experience in developing, customizing, and implementing Odoo solutions. I work
+                    around 3 years of experience in developing, customizing, and implementing Odoo solutions. I work
                     across both the technical and functional sides of ERP, helping turn business requirements into
                     practical and scalable solutions. My experience includes custom module development, business
                     process automation, Odoo implementation, version migration, and third-party integrations such
